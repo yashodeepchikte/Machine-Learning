@@ -1,6 +1,6 @@
 
 
-# SVR
+# Random Forest Regression
 
 #  <---------------- Importing data  ------------------->
 # Importing the libraries
